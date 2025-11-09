@@ -27,7 +27,7 @@ author:
   name             : "Qiufeng Wang"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student, Southeast University"
-  location         : "Earth"
+  # location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
