@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Qiufeng Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student \n Southeast University \n bruce.qfw@gmail.com"
+  bio              : "Ph.D. Student \\n Southeast University \n bruce.qfw@gmail.com"
   # location         : "Earth"
   # employer         : "Red Brick University"
   # uri              :   # URL
