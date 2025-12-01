@@ -16,5 +16,5 @@ redirect_from:
 
 <b>Predictable Scale: Part I, Step Law – Optimal Hyperparameter Scaling Law in Large Language Model Pre-training</b><br>
 <b>Qiufeng Wang\*</b>, Wenzhen Zheng\*, Qiufeng Wang\*, Hanshan Zhang, Zili Wang, Shijie Xuyang, Yuantao Fan, Zhenyu Ding, Haoying Wang, Ning Ding, Shuigeng Zhou, Xiangyu Zhang, Daxin Jiang<br>
-<b>Tech Report</b>.  [<a href="https://arxiv.org/pdf/2503.04715">paper</a>] [<a href="https://arxiv.org/pdf/2503.04715">project</a>]
+<b>Tech Report</b>.  [<a href="https://arxiv.org/pdf/2503.04715">paper</a>] [<a href="[https://arxiv.org/pdf/2503.04715](https://step-law.github.io/)">project</a>]
 <br>
