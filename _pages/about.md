@@ -20,4 +20,4 @@ redirect_from:
 <br>
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=KlN2Smp0BXeKFAAzOr8uF9ZtXa5fT5DcOT896eYai0M&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=KlN2Smp0BXeKFAAzOr8uF9ZtXa5fT5DcOT896eYai0M&cl=ffffff&w=300"></script>
